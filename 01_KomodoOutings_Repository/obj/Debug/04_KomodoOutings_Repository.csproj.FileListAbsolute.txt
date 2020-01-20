@@ -1,0 +1,4 @@
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\01_KomodoOutings_Repository\bin\Debug\01_KomodoOutings_Repository.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\01_KomodoOutings_Repository\bin\Debug\01_KomodoOutings_Repository.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\01_KomodoOutings_Repository\obj\Debug\01_KomodoOutings_Repository.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\01_KomodoOutings_Repository\obj\Debug\01_KomodoOutings_Repository.pdb

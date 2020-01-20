@@ -1,0 +1,5 @@
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Customer\bin\Debug\Customer.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Customer\bin\Debug\Customer.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Customer\obj\Debug\02_KomodoGreet_Repository.csprojAssemblyReference.cache
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Customer\obj\Debug\Customer.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Customer\obj\Debug\Customer.pdb

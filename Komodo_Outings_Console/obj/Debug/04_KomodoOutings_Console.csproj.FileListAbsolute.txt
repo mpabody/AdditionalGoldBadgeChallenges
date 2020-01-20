@@ -1,0 +1,9 @@
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Komodo_Outings_Console\bin\Debug\Komodo_Outings_Console.exe.config
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Komodo_Outings_Console\bin\Debug\Komodo_Outings_Console.exe
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Komodo_Outings_Console\bin\Debug\Komodo_Outings_Console.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Komodo_Outings_Console\bin\Debug\01_KomodoOutings_Repository.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Komodo_Outings_Console\bin\Debug\01_KomodoOutings_Repository.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Komodo_Outings_Console\obj\Debug\04_KomodoOutings_Console.csprojAssemblyReference.cache
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Komodo_Outings_Console\obj\Debug\04_KomodoOutings_Console.csproj.CopyComplete
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Komodo_Outings_Console\obj\Debug\Komodo_Outings_Console.exe
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\Komodo_Outings_Console\obj\Debug\Komodo_Outings_Console.pdb

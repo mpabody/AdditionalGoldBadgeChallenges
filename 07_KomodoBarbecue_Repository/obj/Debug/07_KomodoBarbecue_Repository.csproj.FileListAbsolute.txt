@@ -1,0 +1,5 @@
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Repository\bin\Debug\07_KomodoBarbecue_Repository.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Repository\bin\Debug\07_KomodoBarbecue_Repository.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Repository\obj\Debug\07_KomodoBarbecue_Repository.csprojAssemblyReference.cache
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Repository\obj\Debug\07_KomodoBarbecue_Repository.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Repository\obj\Debug\07_KomodoBarbecue_Repository.pdb

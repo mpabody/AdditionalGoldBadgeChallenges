@@ -1,0 +1,9 @@
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\02_KomodoGreet_Console\bin\Debug\02_KomodoGreet_Console.exe.config
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\02_KomodoGreet_Console\bin\Debug\02_KomodoGreet_Console.exe
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\02_KomodoGreet_Console\bin\Debug\02_KomodoGreet_Console.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\02_KomodoGreet_Console\bin\Debug\Customer.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\02_KomodoGreet_Console\bin\Debug\Customer.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\02_KomodoGreet_Console\obj\Debug\02_KomodoGreet_Console.csprojAssemblyReference.cache
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\02_KomodoGreet_Console\obj\Debug\02_KomodoGreet_Console.csproj.CopyComplete
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\02_KomodoGreet_Console\obj\Debug\02_KomodoGreet_Console.exe
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\02_KomodoGreet_Console\obj\Debug\02_KomodoGreet_Console.pdb

@@ -1,0 +1,5 @@
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\06_KomodoGreenPlan_Repository\bin\Debug\06_KomodoGreenPlan_Repository.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\06_KomodoGreenPlan_Repository\bin\Debug\06_KomodoGreenPlan_Repository.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\06_KomodoGreenPlan_Repository\obj\Debug\06_KomodoGreenPlan_Repository.csprojAssemblyReference.cache
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\06_KomodoGreenPlan_Repository\obj\Debug\06_KomodoGreenPlan_Repository.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\06_KomodoGreenPlan_Repository\obj\Debug\06_KomodoGreenPlan_Repository.pdb
