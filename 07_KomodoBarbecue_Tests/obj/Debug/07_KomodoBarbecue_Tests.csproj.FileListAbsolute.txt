@@ -1,0 +1,15 @@
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\07_KomodoBarbecue_Tests.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\07_KomodoBarbecue_Tests.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\07_KomodoBarbecue_Repository.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\07_KomodoBarbecue_Repository.pdb
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\obj\Debug\07_KomodoBarbecue_Tests.csprojAssemblyReference.cache
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\obj\Debug\07_KomodoBarbecue_Tests.csproj.CopyComplete
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\obj\Debug\07_KomodoBarbecue_Tests.dll
+D:\Personal Projects\GoldBadgeChallenges\GoldBadgeChallenges\07_KomodoBarbecue_Tests\obj\Debug\07_KomodoBarbecue_Tests.pdb
